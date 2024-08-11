@@ -7,7 +7,7 @@ const IngredientList = (props) => {
             {ingredient.name}
   
             <button onClick={() => props.handleAddRemoveIngredient(ingredient)}>
-              Remove Ingredient
+              -
             </button>
           </li>
         ))}
