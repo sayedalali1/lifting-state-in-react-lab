@@ -1,7 +1,9 @@
 /* src/App.css */
+
 * {
   box-sizing: border-box;
 }
+
 
 :root {
   line-height: 1;
@@ -74,6 +76,6 @@ li {
 button {
   cursor: pointer;
   border-radius: 8px;
-  background-color: #1a1a1a;
+  background-color: #f2eeee;
   border: 1px solid transparent;
 }
